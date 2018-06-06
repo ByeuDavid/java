@@ -22,7 +22,7 @@ public class DesafioPDV {
 		valorPago = teclado.nextDouble();
 		troco = valorPago - totalDesconto;
 	    System.out.println("Troco " + troco);
-       
+        
 		
 	
 		

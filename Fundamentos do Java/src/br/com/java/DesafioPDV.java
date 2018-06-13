@@ -1,3 +1,10 @@
+/**
+ * Atividade ConversaoFahrenheit
+ * @author Gabriel David
+ */
+
+
+
 package br.com.java;
 
 import java.util.Scanner;

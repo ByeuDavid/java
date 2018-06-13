@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade OperadoresAritmeticos
  * @author Gabriel David
  */
 

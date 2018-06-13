@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade RegraDe3
  * @author Gabriel David
  */
 

@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade JogoDado
  * @author Gabriel David
  */
 

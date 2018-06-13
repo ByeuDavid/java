@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade ConverterDolarReal
  * @author Gabriel David
  */
 

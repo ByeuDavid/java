@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade CalculadoraFlex
  * @author Gabriel David
  */
 

@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade TabuadaWhile
  * @author Gabriel David
  */
 

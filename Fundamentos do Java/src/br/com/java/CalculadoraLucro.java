@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade CalculadoraLucro
  * @author Gabriel David
  */
 

@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade Verificar Maioridade
  * @author Gabriel David
  */
 

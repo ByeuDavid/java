@@ -1,5 +1,5 @@
 /**
- * Atividade ConversaoFahrenheit
+ * Atividade Verificar Obrigatoriedade de Voto
  * @author Gabriel David
  */
 

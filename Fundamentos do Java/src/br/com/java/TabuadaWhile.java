@@ -1,5 +1,5 @@
 /**
- * Atividade TabuadaWhile
+ * Atividade Tabuada While
  * @author Gabriel David
  */
 

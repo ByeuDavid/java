@@ -1,6 +1,6 @@
 /**
  * Atividade JoKenPo
- * @author Gabriel David / Lucas Soares
+ * @author Gabriel David
  * Date 06/13/2018
  */
 

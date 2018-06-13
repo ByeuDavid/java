@@ -1,5 +1,5 @@
 /**
- * Atividade CalculadoraFlex
+ * Atividade Calculadora Flex
  * @author Gabriel David
  */
 

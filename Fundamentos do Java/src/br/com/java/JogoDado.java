@@ -1,5 +1,5 @@
 /**
- * Atividade JogoDado
+ * Atividade Jogo do Dado
  * @author Gabriel David
  */
 

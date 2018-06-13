@@ -1,5 +1,5 @@
 /**
- * Atividade CalculadoraLucro
+ * Atividade Calculadora Lucro
  * @author Gabriel David
  */
 

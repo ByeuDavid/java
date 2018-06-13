@@ -1,3 +1,9 @@
+/**
+ * Atividade Calculo de Media
+ * @author Gabriel David
+ */
+
+
 package br.com.java;
 
 import java.util.Scanner;

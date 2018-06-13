@@ -1,5 +1,5 @@
 /**
- * Atividade OperadoresAritmeticos
+ * Atividade Operadores Aritmeticos
  * @author Gabriel David
  */
 

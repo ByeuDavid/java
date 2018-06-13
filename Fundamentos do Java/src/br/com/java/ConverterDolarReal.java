@@ -1,5 +1,5 @@
 /**
- * Atividade ConverterDolarReal
+ * Atividade Converter Dolar para Real
  * @author Gabriel David
  */
 

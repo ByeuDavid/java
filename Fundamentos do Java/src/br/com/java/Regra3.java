@@ -1,5 +1,5 @@
 /**
- * Atividade RegraDe3
+ * Atividade Regra De 3
  * @author Gabriel David
  */
 

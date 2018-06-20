@@ -1,3 +1,9 @@
+/**
+ * Atividade Estudo While
+ * @author Gabriel David
+ */
+
+
 
 package br.com.java;
 

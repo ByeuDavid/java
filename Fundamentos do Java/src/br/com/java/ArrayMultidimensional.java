@@ -1,3 +1,9 @@
+/**
+ * Atividades Array Multidimensional
+ * @author Gabriel David
+ */
+
+
 package br.com.java;
 
 public class ArrayMultidimensional {

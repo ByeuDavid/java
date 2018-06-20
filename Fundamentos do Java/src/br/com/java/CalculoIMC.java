@@ -1,3 +1,8 @@
+/**
+ * Atividade Calculo IMC
+ * @author Gabriel David
+ */
+
 package br.com.java;
 
 import java.util.Scanner;
@@ -5,30 +10,32 @@ import java.util.Scanner;
 public class CalculoIMC {
 
 	public static void main(String[] args) {
-		double altura, peso, imc;
-		Scanner teclado =  new Scanner(System.in);
-		System.out.println("Consulte seu IMC");
-		System.out.println("Digite sua altura: ");
-		altura = teclado.nextDouble();
-		System.out.println("Digite seu peso: ");
+		double peso, altura, imc;
+		System.out.println("Digite o seu peso em kg: ");
+		// Entrada
+		Scanner teclado = new Scanner(System.in);
 		peso = teclado.nextDouble();
-		/* Critérios
-		 * Abaixo de 17 = Muito abaixo do peso
-		 * Entre 17 e 18,49 = Abaixo do peso
-		 * Entre 18,5 e 24,99 = Peso normal
-		 * Entre 25 e 29,99 = Acima do peso
-		 * Entre 30 e 34,99 = Obesidade I
-		 * Entre 35 e 39,99 = Obesidade II (severa)
-		 * Acima de 40 = Obesidade III (mórbida) 
-		 */
-		
-		if () {
-			
-		} else {
-
-		}
-		
-
+		System.out.println("Digite sua altura em metros: ");
+		altura = teclado.nextDouble();
+		// Cálculo
+		imc = peso / (altura * altura);
+		// Saída
+        System.out.println(" O valor da sua massa corporal é: " + imc);
+        System.out.println("");
+        if (imc < 18.49) {
+			System.out.println("Abaixo do Peso");
+		} else if (imc >= 18.5 && imc <= 24.99) {
+            System.out.println("Peso Ideal");
+		} else if (imc >= 25 && imc <= 29.99) {
+            System.out.println("Acima Do Peso");
+	    } else if (imc >= 30  && imc <= 34.99) {
+	        System.out.println("Obesidade 1");
+	    } else if (imc >= 35  && imc <= 39.99) {
+            System.out.println("Obesidade 2");
+        } else {
+            System.out.println("Obesidade 3");
+       }
 	}
 
-}
+
+	}
